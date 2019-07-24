@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.flex-container {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+
+.figura {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: peru;
+  border-radius: 5vw;
+}
